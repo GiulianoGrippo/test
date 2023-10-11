@@ -1,0 +1,507 @@
+<div data-elementor-type="section" data-elementor-id="2950" class="elementor elementor-2950" data-elementor-post-type="elementor_library">
+						<div class="elementor-element elementor-element-4b6f992 e-con-full e-flex e-con e-parent" data-id="4b6f992" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-60017b9 e-con-full e-flex e-con e-child" data-id="60017b9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-fbe9ffa elementor-widget elementor-widget-heading" data-id="fbe9ffa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 09-10-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">I nostri <span class="underline">servizi</span></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4a9ac7a elementor-absolute e-transform i-nostri-servizi elementor-widget elementor-widget-heading elementor-motion-effects-parent" data-id="4a9ac7a" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+				<div class="elementor-widget-container elementor-motion-effects-element" style="--translateX: -176.64px; --e-transform-transition-duration: 100ms; transform: translateY(var(--e-transform-translateY, 0px))translateX(var(--e-transform-translateX, 0px))translateX(var(--translateX));">
+			<h2 class="elementor-heading-title elementor-size-default">I nostri servizi</h2>		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e375a32 e-flex e-con-boxed e-con e-parent" data-id="e375a32" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-fda48c1 e-flex e-con-boxed e-con e-child" data-id="fda48c1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-14acc35 elementor-widget elementor-widget-html" data-id="14acc35" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="swiper mySwiperServizi swiper-initialized swiper-horizontal swiper-backface-hidden">
+    <div class="swiper-wrapper" id="swiper-wrapper-8a6bfb5bb010bcfec" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+      <div class="swiper-slide swiper-slide-active" style="width: 305px; margin-right: 30px;" role="group" aria-label="1 / 5">
+          <div class="">
+              <img decoding="async" class="" src="https://stg-raffaeleiorio-studiokoine.kinsta.cloud/wp-content/uploads/2023/09/studio-koine-home-tutti-i-servizi-testa.png" data="Mal di Testa">
+
+      </div>
+      
+       </div>
+      
+      
+      
+            <div class="swiper-slide swiper-slide-next" style="width: 305px; margin-right: 30px;" role="group" aria-label="2 / 5">
+          <div class="">
+              <img decoding="async" class="" src="https://stg-raffaeleiorio-studiokoine.kinsta.cloud/wp-content/uploads/2023/09/studio-koine-home-tutti-i-servizi-colonna.png" data="Mal di Schiena">
+
+      </div>
+      
+       </div>
+      
+      
+                 <div class="swiper-slide" style="width: 305px; margin-right: 30px;" role="group" aria-label="3 / 5">
+          <div class="">
+              <img decoding="async" class="" src="https://stg-raffaeleiorio-studiokoine.kinsta.cloud/wp-content/uploads/2023/10/studio-koine-home-tutti-i-servizi-arti-superiori.png" data="Arti Superiori">
+
+      </div>
+      
+       </div>
+       
+                        <div class="swiper-slide" style="width: 305px; margin-right: 30px;" role="group" aria-label="4 / 5">
+          <div class="">
+              <img decoding="async" class="" src="https://stg-raffaeleiorio-studiokoine.kinsta.cloud/wp-content/uploads/2023/10/studio-koine-home-tutti-i-servizi-bacino.png" data="Bacino">
+
+      </div>
+      
+       </div>
+
+
+                            <div class="swiper-slide" role="group" aria-label="5 / 5" style="width: 305px; margin-right: 30px;">
+          <div class="">
+              <img decoding="async" class="" src="https://stg-raffaeleiorio-studiokoine.kinsta.cloud/wp-content/uploads/2023/10/studio-koine-home-tutti-i-servizi-arti-inferiori.png" data="Arti Inferiori">
+
+      </div>
+      
+       </div>
+
+
+    </div>
+  <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+     <script src="
+https://cdn.jsdelivr.net/npm/swiper@8.4.5/swiper-bundle.min.js
+"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var swiper = new Swiper(".mySwiperServizi", {
+        spaceBetween: 30,
+        breakpoints: {
+            640: {
+                slidesPerView: 1,
+            },
+            768: {
+                slidesPerView: 3,
+                spaceBetween: 20
+            }
+        },
+        on: {
+            slideChangeTransitionEnd: function() {
+                updateTextCarousel();
+            }
+        }
+    });
+
+  function setProgressBarWidth() {
+        var totalSlides = swiper.slides.length;
+        var progressBarWidth = 100 / totalSlides;  // calcola la larghezza in percentuale
+        document.querySelector('.progressbar').style.width = progressBarWidth + '%';
+    }
+
+    function updateTextCarousel() {
+        var activeDataValue = document.querySelector(".mySwiperServizi .swiper-slide-active img").getAttribute("data");
+        var headingTitle = document.querySelector(".testo-carousel .elementor-heading-title");
+
+        headingTitle.classList.remove("text-active");
+
+        setTimeout(function() {
+            document.getElementById('lista-servizi-testa').style.display = 'none';
+            document.getElementById('lista-servizi-schiena').style.display = 'none';
+            document.getElementById('lista-servizi-bacino').style.display = 'none';
+            document.getElementById('lista-servizi-arti-inferiori').style.display = 'none';
+            document.getElementById('lista-servizi-arti-superiori').style.display = 'none';
+
+            if (activeDataValue === "Mal di Testa") {
+                document.getElementById('lista-servizi-testa').style.display = 'block';
+            } else if (activeDataValue === "Mal di Schiena") {
+                document.getElementById('lista-servizi-schiena').style.display = 'block';
+            } else if (activeDataValue === "Arti Superiori") {
+                document.getElementById('lista-servizi-arti-superiori').style.display = 'block';
+            } else if (activeDataValue === "Bacino") {
+                document.getElementById('lista-servizi-bacino').style.display = 'block';
+            } else if (activeDataValue === "Arti Inferiori") {
+                document.getElementById('lista-servizi-arti-inferiori').style.display = 'block';
+            }
+            
+            headingTitle.textContent = activeDataValue;
+            headingTitle.classList.add("text-active");
+        }, 220);
+
+        // Aggiorna la progress bar
+        updateProgressBar();
+    }
+
+    function updateProgressBar() {
+        var activeIndex = swiper.activeIndex;
+        var totalSlides = swiper.slides.length;
+
+        var leftPercentage = (activeIndex / (totalSlides - 1)) * 100;
+        var progressBar = document.querySelector('.progressbar');
+        
+        progressBar.style.left = leftPercentage + '%';
+        progressBar.style.transform = `translateX(-${leftPercentage}%)`;
+    }
+
+    // Imposta la larghezza della stanghetta e aggiorna la progress bar al caricamento
+    setProgressBarWidth();
+    updateTextCarousel();
+});
+
+
+</script>
+
+<style>
+    
+/* Definisce le proprietà base per l'animazione */
+.contenitore-testo-carousel .elementor-heading-title {
+    transition: opacity 0.4s;
+    opacity: 0;
+}
+
+/* Classe da aggiungere con JavaScript quando il testo è "attivo" */
+.text-active {
+    opacity: 1!important;
+}
+    
+</style>
+
+
+
+    
+    
+
+		</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9937cc1 e-con-full contenitore-testo-carousel e-flex e-con e-parent" data-id="9937cc1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+				<div class="elementor-element elementor-element-a431729 testo-carousel elementor-widget elementor-widget-heading" data-id="a431729" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default text-active">Mal di Testa</h2>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c9de9aa e-con-full e-flex e-con e-parent" data-id="c9de9aa" data-element_type="container" id="lista-servizi" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+				<div class="elementor-element elementor-element-c733321 marquee-mal-di-testa elementor-widget elementor-widget-html" data-id="c733321" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			
+<div id="lista-servizi-testa" style="display: block;">
+    <div class="marquee slider-servizi">
+	<div class="marquee__inner slider-servizi" aria-hidden="true">
+		<span class="word">Cefalea</span>
+        <span class="word">Emicrania</span>
+        <span class="word">Dolore Cervicale</span>
+        <span class="word">Sbandamenti</span>
+        <span class="word">Disturbi articolazione temporo-mandibolare</span>
+        <span class="word">Affaticamento della vista</span>
+	</div>
+</div>
+
+<div class="marquee-right slider-servizi">
+	<div class="marquee__inner-right slider-servizi" aria-hidden="true">
+	     <span class="word">Affaticamento della vista</span>
+	    <span class="word">Disturbi articolazione temporo-mandibolare</span> 
+	    <span class="word">Sbandamenti</span>
+         <span class="word">Dolore Cervicale</span>
+        <span class="word">Emicrania</span>
+      	<span class="word">Cefalea</span>
+
+       
+	</div>
+</div>
+
+<div class="marquee slider-servizi">
+	<div class="marquee__inner slider-servizi" aria-hidden="true">
+		<span class="word">Cefalea</span>
+        <span class="word">Emicrania</span>
+        <span class="word">Dolore Cervicale</span>
+        <span class="word">Sbandamenti</span>
+        <span class="word">Disturbi articolazione temporo-mandibolare</span>
+        <span class="word">Affaticamento della vista</span>
+	</div>
+</div>
+</div>
+
+
+<style>
+    .slider-servizi .word{
+        font-size: 14px!Important;
+        color: #0D3A4F;
+        padding: 0 20px!Important;
+    }
+    
+    .slider-servizi .marquee__inner,
+    .slider-servizi .marquee__inner-right{
+        padding: 8px 0;
+        border-top: 1px solid #0D3A4F;
+        border-bottom: 1px solid #0D3A4F;
+    }
+    
+    .slider-servizi .word::after{
+        right: -3px;
+    }
+    
+</style>
+
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-d495ce9 marquee-mal-di-schiena elementor-widget elementor-widget-html" data-id="d495ce9" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			
+<div id="lista-servizi-schiena" style="display: none;">
+    <div class="marquee slider-servizi">
+	<div class="marquee__inner slider-servizi" aria-hidden="true">
+		<span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+	</div>
+</div>
+
+<div class="marquee-right slider-servizi">
+	<div class="marquee__inner-right slider-servizi" aria-hidden="true">
+		<span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+	</div>
+</div>
+
+<div class="marquee slider-servizi">
+	<div class="marquee__inner slider-servizi" aria-hidden="true">
+		<span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+        <span class="word">Lombalgia</span>
+        <span class="word">Dorsalgia</span>
+	</div>
+</div>
+</div>
+
+
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-4b8d30f marquee-arti-superiori elementor-widget elementor-widget-html" data-id="4b8d30f" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			
+<div id="lista-servizi-arti-superiori" style="display: none;">
+    <div class="marquee slider-servizi">
+	<div class="marquee__inner slider-servizi" aria-hidden="true">
+        <span class="word">Spalla dolorosa</span>
+        <span class="word">Spalla congelata</span>
+        <span class="word">Lesione alla cuffia dei rotatori</span>
+        <span class="word">Spalla instabile</span>
+        <span class="word">Spalla dolorosa</span>
+        <span class="word">Spalla congelata</span>
+        <span class="word">Lesione alla cuffia dei rotatori</span>
+        <span class="word">Spalla instabile</span>
+
+
+
+	</div>
+</div>
+
+<div class="marquee-right slider-servizi">
+	<div class="marquee__inner-right slider-servizi" aria-hidden="true">
+        <span class="word">Artrosi spalla</span>
+        <span class="word">Riabilitazione dopo protesi spalla</span>
+        <span class="word">Impingement sub acraniale</span>
+        <span class="word">Dolore laterale di gomito</span>
+        <span class="word">Artrosi spalla</span>
+        <span class="word">Riabilitazione dopo protesi spalla</span>
+        <span class="word">Impingement sub acraniale</span>
+        <span class="word">Dolore laterale di gomito</span>
+	</div>
+</div>
+
+<div class="marquee slider-servizi">
+	<div class="marquee__inner slider-servizi" aria-hidden="true">
+        
+        <span class="word">Artrosi gomito</span>
+        <span class="word">Artrosi mano</span>
+        <span class="word">Dito a scatto</span>
+        <span class="word">Tunnel carpale</span>
+        <span class="word">Artrosi gomito</span>
+        <span class="word">Artrosi mano</span>
+        <span class="word">Dito a scatto</span>
+        <span class="word">Tunnel carpale</span>
+	</div>
+</div>
+</div>
+
+
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-bedcaa1 marquee-bacino elementor-widget elementor-widget-html" data-id="bedcaa1" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			
+<div id="lista-servizi-bacino" style="display: none;">
+    <div class="marquee slider-servizi">
+	<div class="marquee__inner slider-servizi" aria-hidden="true">
+    <span class="word">Pubalgia</span>
+    <span class="word">Impingement dell'anca</span>
+    <span class="word">Artrosi anca</span>
+    <span class="word">Riabilitazione dopo protesi d'anca</span>
+    <span class="word">Tendinopatia della muscolatura glutea</span>
+    <span class="word">Pubalgia</span>
+    <span class="word">Impingement dell'anca</span>
+    <span class="word">Artrosi anca</span>
+    <span class="word">Riabilitazione dopo protesi d'anca</span>
+    <span class="word">Tendinopatia della muscolatura glutea</span>
+	</div>
+</div>
+
+<div class="marquee-right slider-servizi">
+	<div class="marquee__inner-right slider-servizi" aria-hidden="true">
+    <span class="word">Pubalgia</span>
+    <span class="word">Impingement dell'anca</span>
+    <span class="word">Artrosi anca</span>
+    <span class="word">Riabilitazione dopo protesi d'anca</span>
+    <span class="word">Tendinopatia della muscolatura glutea</span>
+    <span class="word">Pubalgia</span>
+    <span class="word">Impingement dell'anca</span>
+    <span class="word">Artrosi anca</span>
+    <span class="word">Riabilitazione dopo protesi d'anca</span>
+    <span class="word">Tendinopatia della muscolatura glutea</span>
+	</div>
+</div>
+
+<div class="marquee slider-servizi">
+	<div class="marquee__inner slider-servizi" aria-hidden="true">
+    <span class="word">Pubalgia</span>
+    <span class="word">Impingement dell'anca</span>
+    <span class="word">Artrosi anca</span>
+    <span class="word">Riabilitazione dopo protesi d'anca</span>
+    <span class="word">Tendinopatia della muscolatura glutea</span>
+    <span class="word">Pubalgia</span>
+    <span class="word">Impingement dell'anca</span>
+    <span class="word">Artrosi anca</span>
+    <span class="word">Riabilitazione dopo protesi d'anca</span>
+    <span class="word">Tendinopatia della muscolatura glutea</span>
+	</div>
+</div>
+</div>
+
+
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-780685c marquee-arti-inferiori elementor-widget elementor-widget-html" data-id="780685c" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			
+<div id="lista-servizi-arti-inferiori" style="display: none;">
+    <div class="marquee slider-servizi">
+	<div class="marquee__inner slider-servizi" aria-hidden="true">
+        <span class="word">Artrosi piedi</span>
+        <span class="word">Artrosi ginocchio</span>
+        <span class="word">Sperone calcaneare</span>
+        <span class="word">Tallonite</span>
+        <span class="word">Fascite plantare (Fasciopatia)</span>
+        <span class="word">Artrosi piedi</span>
+        <span class="word">Artrosi ginocchio</span>
+        <span class="word">Sperone calcaneare</span>
+        <span class="word">Tallonite</span>
+        <span class="word">Fascite plantare (Fasciopatia)</span>
+  
+        
+
+	</div>
+</div>
+
+<div class="marquee-right slider-servizi">
+	<div class="marquee__inner-right slider-servizi" aria-hidden="true">
+      <span class="word">Dolore tendine d'Achille</span>
+        <span class="word">Menisco e crociati</span>
+        <span class="word">Riabilitazione post ricostruzione crociato anteriore</span>
+        <span class="word">Riabilitazione post operazione menisco</span>
+        <span class="word">Riabilitazione post protesi di ginocchio</span>
+        <span class="word">Dolore tendine d'Achille</span>
+        <span class="word">Menisco e crociati</span>
+        <span class="word">Riabilitazione post ricostruzione crociato anteriore</span>
+        <span class="word">Riabilitazione post operazione menisco</span>
+        <span class="word">Riabilitazione post protesi di ginocchio</span>
+	</div>
+</div>
+
+<div class="marquee slider-servizi">
+	<div class="marquee__inner slider-servizi" aria-hidden="true">
+        <span class="word">Neuroma di Morton</span>
+        <span class="word">Alluce rigido</span>
+        <span class="word">Instabilità di caviglia e distorsioni</span>
+        <span class="word">Cisti di beker</span>
+        <span class="word">Sindomre femoro-rotulea</span>
+        <span class="word">Morbo di Osgood Schlatter</span>
+        <span class="word">Neuroma di Morton</span>
+        <span class="word">Alluce rigido</span>
+        <span class="word">Instabilità di caviglia e distorsioni</span>
+        <span class="word">Cisti di beker</span>
+        <span class="word">Sindomre femoro-rotulea</span>
+        <span class="word">Morbo di Osgood Schlatter</span>
+	</div>
+</div>
+</div>
+
+
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0a9d1ba e-flex e-con-boxed e-con e-parent" data-id="0a9d1ba" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-01a52f3 elementor-widget elementor-widget-html" data-id="01a52f3" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="progressbar-container">
+    <div class="progressbar" style="width: 20%; left: 0%; transform: translateX(0%);"></div>
+</div>
+
+<style>
+.progressbar-container {
+    width: 100%;
+    background-color: #F6FBFD;  /* Grigio chiaro per lo sfondo della barra */
+    height: 5px;
+    position: relative;
+    margin-top: 20px;
+}
+
+.progressbar {
+    height: 5px;
+    background-color: #0D3A4F;  /* Colore principale per la progress bar */
+    position: absolute;
+    left: 0;
+    transition: all 0.4s ease; /* Transizione fluida */
+}
+
+
+
+
+
+
+    
+    
+</style>		</div>
+				</div>
+					</div>
+				</div>
+						</div>
